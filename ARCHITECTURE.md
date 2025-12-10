@@ -38,7 +38,7 @@ MediConnect Admin Panel is a full-stack web application designed to manage healt
 ┌─────────────────────────────────────────────────────────────┐
 │                     CLIENT LAYER                             │
 │  ┌────────────────────────────────────────────────────┐     │
-│  │          React Frontend (medibuddy)                 │     │
+│  │          React Frontend (mediconnect)               │     │
 │  │  - Material-UI Components                           │     │
 │  │  - Chart.js Visualizations                          │     │
 │  │  - React Router Navigation                          │     │
@@ -96,7 +96,7 @@ MediConnect Admin Panel is a full-stack web application designed to manage healt
 
 ## Technology Stack
 
-### Frontend (medibuddy/)
+### Frontend (mediconnect/)
 | Technology | Version | Purpose |
 |------------|---------|---------|
 | **React** | 18.2.0 | UI Framework |
@@ -131,7 +131,7 @@ MediConnect Admin Panel is a full-stack web application designed to manage healt
 ### 1. Presentation Layer (Frontend)
 
 ```
-medibuddy/
+mediconnect/
 ├── public/
 │   └── index.html              # HTML entry point
 ├── src/

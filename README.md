@@ -116,7 +116,7 @@ MediConnect/
 │   ├── package.json
 │   └── .env.example
 │
-├── medibuddy/               # Frontend Admin Panel
+├── mediconnect/             # Frontend Admin Panel
 │   ├── public/
 │   ├── src/
 │   │   ├── components/      # React components
@@ -177,7 +177,7 @@ The backend will run on `http://localhost:5000`
 
 1. Navigate to frontend directory:
 ```bash
-cd medibuddy
+cd mediconnect
 ```
 
 2. Install dependencies:
